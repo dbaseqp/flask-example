@@ -1,0 +1,30 @@
+/* example css */
+body {
+    font-family: Consolas;
+    background-color: #232831;
+}
+
+h1 {
+    color: #DCDADC;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 3rem;
+}
+
+h3 {
+    color: #DCDADC;
+    font-size: 1.25rem;
+    margin-top: 3px;
+    text-align: center;
+}
+
+#chatbox {
+    background-color: #2C2E3E;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    min-height: 70px;
+    margin-top: 60px;
+}
+
